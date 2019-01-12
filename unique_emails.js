@@ -15,6 +15,8 @@
 // time complexity = O(n)?
 // space cpmpplexity = O(n)
 
+// trying our the Set constructor
+
 let numUniqueEmails = function (emails) {
   let set = new Set();
   return emails.reduce((acc, curr) => {
