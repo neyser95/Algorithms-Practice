@@ -7,6 +7,7 @@
 // Time complexity: O(n)
 // Space complexity: O(n)
 
+// My solution
 const numJewelsInStones = function (J, S) {
   let obj = {};
   let count = 0;
